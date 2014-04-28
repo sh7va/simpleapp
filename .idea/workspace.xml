@@ -52,6 +52,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/README.rdoc" />
         <option value="$PROJECT_DIR$/config/initializers/secret_token.rb" />
       </list>
     </option>
